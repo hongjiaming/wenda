@@ -83,5 +83,6 @@ public class Shell {
         String[] a = args;
         Shell.sort(a);
         show(a);
+        System.out.println("我是谁");
     }
 }
